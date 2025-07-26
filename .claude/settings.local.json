@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(cd \"E:\\guhuo-station-dev\\rocket-boot-project\\rocket-boot\\src\\main\\java\\com\\guhuo\\rocketboot\\service\\impl\")",
+      "Bash(cd \"E:\\guhuo-station-dev\\rocket-boot-project\\ui\")",
+      "Bash(npm run serve)",
+      "Bash(mkdir:*)",
+      "Bash(mvn compile:*)",
+      "Bash(mvn clean:*)",
+      "Bash(mvn:*)",
+      "Bash(taskkill:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ],
+    "deny": []
+  }
+}
